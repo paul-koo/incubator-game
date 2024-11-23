@@ -4,5 +4,8 @@
     "type": "module",
     "main": "index.js",
     "author": "paul-koo <pavelkoltun999@gmail.com>",
-    "license": "MIT"
+    "license": "MIT",
+    "dependencies": {
+        "jest": "^29.7.0"
+    }
 }
