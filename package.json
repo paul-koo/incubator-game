@@ -6,6 +6,8 @@
     "author": "paul-koo <pavelkoltun999@gmail.com>",
     "license": "MIT",
     "dependencies": {
+        "@babel/preset-env": "^7.26.0",
+        "babel-jest": "^29.7.0",
         "jest": "^29.7.0"
     }
 }
