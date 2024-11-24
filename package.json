@@ -4,7 +4,7 @@
     "type": "module",
     "main": "index.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "jest"
     },
     "author": "paul-koo <pavelkoltun999@gmail.com>",
     "license": "MIT",
